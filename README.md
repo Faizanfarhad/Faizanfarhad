@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Faizanfarhad&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Faizanfarhad&theme=dark" alt="GitHub Streak" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
