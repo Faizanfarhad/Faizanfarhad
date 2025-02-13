@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizanfarhad&theme=tokyonight" alt="GitHub Streak" />
+  ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge)
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
