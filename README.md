@@ -15,8 +15,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizanfarhad&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Faizanfarhad&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
