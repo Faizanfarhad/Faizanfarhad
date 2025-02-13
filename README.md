@@ -15,7 +15,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  ![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge)
+  <img src="https://streak-stats.demolab.com?user=Faizanfarhad&theme=dark" alt="GitHub Streak" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
