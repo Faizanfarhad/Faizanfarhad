@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faizanfarhad
+# 👋 Hi, I’m @Faizanfarhad
 - 👀 I’m interested in Coding like all 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
