@@ -37,10 +37,7 @@
 
 ---
 
-### 🏆 Certifications & Learning  
-✔️ **NumPy Mastery** (✅ Completed)  
-✔️ **Linear Regression Deep Dive** (📚 In Progress)  
-✔️ **NLP Fundamentals** (📌 Next Target)  
+ 
 
 ---
 
