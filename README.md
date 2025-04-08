@@ -20,9 +20,6 @@
 
 ---
 
-### 🤖 Current AI Experiments  
-🛠️ **Rule-Based Chatbot** – A chatbot using basic logic & rules  
-🧠 **LLM-Powered Chatbot** – Experimenting with Large Language Models 
 
 ---
 
