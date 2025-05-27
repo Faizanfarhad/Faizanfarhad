@@ -3,7 +3,12 @@
 <p align="center">
   🚀 AI Engineer in the Making | 🧠 NLP & Machine Learning Enthusiast 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Faizanfarhad&label=Profile%20views&color=0e75b6&style=flat" alt="Faizanfarhad" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Faizanfarhad&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="Faizanfarhad" 
+       width="150" 
+       height="30" /> 
+</p>
 ---
 
 ### 🧠 About Me  
