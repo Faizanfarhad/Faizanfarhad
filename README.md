@@ -3,7 +3,7 @@
 <p align="center">
   🚀 AI Engineer in the Making | 🧠 NLP & Machine Learning Enthusiast 
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna700&label=Profile%20views&color=0e75b6&style=flat" alt="sapna700" /> </p>
 ---
 
 ### 🧠 About Me  
