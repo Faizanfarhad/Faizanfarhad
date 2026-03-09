@@ -32,7 +32,8 @@
 ### 📫 How to Reach Me
 
 - **Email**: `fainzanfarhad2211@gmail.com`
-- **Linkedin**: [@Faizanfarhad](https://github.com/Faizanfarhad](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTtdzY0kIQ0esURKB4TsGkw%3D%3D))
+- **Linkedin**: [@Faizanfarhad](www.linkedin.com/in/faizan-farhad-77b1b4342))
+
 
 ---
 
