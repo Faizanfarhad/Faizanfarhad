@@ -15,9 +15,10 @@
 ### 🌱 What I’m Currently Learning
 
 - AI / Machine Learning from **Daksh Gurukul (Credit Linked Program)**
-- Building **CNNs from scratch** using PyTorch
-- Improving my understanding of **optimization, regularization, and generalization**
+ 
+- Strengthening my **math foundations** for **ML/DL** (linear algebra, probability, calculus)
 
+-  Exploring **NLP and transformers** for text understanding
 ---
 
 ### 💬 Ask Me About
