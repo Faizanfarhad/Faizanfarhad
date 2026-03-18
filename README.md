@@ -16,6 +16,8 @@
 
 - AI / Machine Learning from **Daksh Gurukul (Credit Linked Program)**
  
+- Actively Looking for an Internship Opportunity to enhancing my skills   
+ 
 - Strengthening my **math foundations** for **ML/DL** (linear algebra, probability, calculus)
 
 -  Exploring **NLP and transformers** for text understanding
