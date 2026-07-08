@@ -29,7 +29,7 @@
 - **PyTorch**
 - **scikit-learn**
 - ML fundamentals (datasets, training loops, evaluation, overfitting, etc.)
-
+- Model Optimization Techniques
 ---
 
 ### 📫 How to Reach Me
