@@ -65,7 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/Faizanfarhad/Faizanfarhad?style=flat-square&color=blueviolet" alt="Top Language" />
+  <br/>
+  <img src="https://img.shields.io/github/languages/count/Faizanfarhad/Faizanfarhad?style=flat-square&color=blueviolet" alt="Language Count" />
 </p>
 
 ---
