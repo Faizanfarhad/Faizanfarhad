@@ -64,9 +64,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" />
 
 ---
 
