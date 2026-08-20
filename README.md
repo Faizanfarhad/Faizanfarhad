@@ -60,13 +60,6 @@
 
 > I also have a working understanding of **C, C++, and Java** from a CS perspective.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
