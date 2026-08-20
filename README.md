@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://img.shields.io/github/languages/top/Faizanfarhad?style=flat-square&color=blueviolet" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" />
 
 ---
 
