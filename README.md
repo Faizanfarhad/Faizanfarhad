@@ -64,7 +64,10 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight" />
+<p align="center">
+  <!-- This works immediately without Vercel -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanfarhad&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+</p>
 
 ---
 
