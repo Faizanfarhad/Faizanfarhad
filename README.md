@@ -81,11 +81,12 @@
 ### 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/faizan-farhad-77b1b4342" target="blank">
-    <img align="center" src="https://githubusercontent.com" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/faizan-farhad-77b1b4342" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" height="35" />
   </a>
   <a href="mailto:faizanfarhad2211@gmail.com">
-    <img align="center" src="https://githubusercontent.com" alt="Email" height="30" width="40" />
+    <img src="https://shields.io" alt="Email" height="35" />
   </a>
 </p>
+
 ---
