@@ -84,6 +84,9 @@
   <a href="https://www.linkedin.com/in/faizan-farhad-77b1b4342" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" height="35" />
   </a>
+  <a href="https://faizanfarhad.github.github.io/portfolio/" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" height="35" />
+  </a>
   <a href="mailto:faizanfarhad2211@gmail.com">
     <img src="https://shields.io" alt="Email" height="35" />
   </a>
