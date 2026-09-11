@@ -15,7 +15,7 @@
 
 ### 💫 About Me
 
-- 🎓 **Education:** Third Year BCA Student at CPJIMT College (MDU), Narela, Delhi.
+- 🎓 **Education:** Third Year BCA Student at CPJ College (MDU), Narela, Delhi.
 - 📜 **Credentials:** Certified in Advanced AI/ML via the Daksh Gurukul Credit-Linked Program.
 - 🎯 **Core Passion:** Bridging the gap between manual workflows and intelligent automation using ML/DL.
 - ⚙️ **CS Foundations:** Strong academic grounding in core computer science using C, C++, and Java.
