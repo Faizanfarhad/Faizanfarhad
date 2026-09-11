@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Faizan Farhad 👋</h1>
 
-<h3 align="center">Future AI/ML Engineer | BCA Student @ CPJIMT College, Narela</h3>
+<h3 align="center">Future AI/ML Engineer | BCA Student @ CPJ College, Narela</h3>
 
 <p align="center">
   🚀 AI & Machine Learning Enthusiast | 🧠 NLP & Deep Learning Explorer | ⚙️ Automation Builder
